@@ -1,2 +1,5 @@
 test/
 train/
+train_seg/
+test_seg/
+old_submissions/
